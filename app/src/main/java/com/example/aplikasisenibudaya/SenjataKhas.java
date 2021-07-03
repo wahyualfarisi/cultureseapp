@@ -2,7 +2,9 @@ package com.example.aplikasisenibudaya;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -22,5 +24,10 @@ public class SenjataKhas extends AppCompatActivity {
         senjataName.setText( getIntent().getStringExtra("name") );
         senjataDesc.setText( getIntent().getStringExtra("desc"));
         Picasso.get().load( getIntent().getStringExtra("image") ).into( senjataImg );
+    }
+
+    public void home(View view) {
+        Intent intent = new Intent(SenjataKhas.this, Home.class);
+        startActivity(intent);
     }
 }
