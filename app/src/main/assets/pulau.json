@@ -2,27 +2,33 @@
   "pulau": [
     {
       "kode_pulau": "1",
-      "nama_pulau": "PULAU SUMATERA"
+      "nama_pulau": "PULAU SUMATERA",
+      "image": "https://www.pegipegi.com/travel/wp-content/uploads/2020/02/rumah-megah-sarat-filosofi-adat-batak-toba_191827_1140.jpg"
     },
     {
       "kode_pulau": "2",
-      "nama_pulau": "PULAU JAWA"
+      "nama_pulau": "PULAU JAWA",
+      "image": "https://archive.netralnews.com/foto/2018/01/05/245-kota_yogyakarta.jpg"
     },
     {
       "kode_pulau": "3",
-      "nama_pulau": "PULAU NUSA TENGGARA DAN BALI"
+      "nama_pulau": "PULAU NUSA TENGGARA DAN BALI",
+      "image": "https://pix10.agoda.net/geo/city/17193/1_17193_02.jpg?s=1920x822"
     },
     {
       "kode_pulau": "4",
-      "nama_pulau": "PULAU MALUKU DAN PAPUA"
+      "nama_pulau": "PULAU MALUKU DAN PAPUA",
+      "image": "https://i.ytimg.com/vi/OB2nrAuoOMQ/maxresdefault.jpg"
     },
     {
       "kode_pulau": "5",
-      "nama_pulau": "PULAU KALIMANTAN"
+      "nama_pulau": "PULAU KALIMANTAN",
+      "image": "https://www.celebes.co/borneo/wp-content/uploads/2020/03/Pakaian-Adat-Kalimantan-Timur.jpg"
     },
     {
       "kode_pulau": "6",
-      "nama_pulau": "PULAU SULAWESI"
+      "nama_pulau": "PULAU SULAWESI",
+      "image": "https://media.gettyimages.com/photos/labengki-island-southeast-sulawesi-indonesia-picture-id1084151598?s=612x612"
     }
   ]
 }
