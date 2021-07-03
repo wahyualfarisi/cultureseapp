@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Provinsi">
+
+    <ImageView
+        android:id="@+id/imagePulauDetail"
+        android:layout_width="match_parent"
+        android:layout_height="226dp"
+        app:srcCompat="@drawable/sumatra"
+        tools:layout_editor_absoluteX="0dp"
+        android:layout_marginTop="-20dp"
+        tools:layout_editor_absoluteY="-406dp" />
+
+    <TextView
+        android:id="@+id/textPulauDetail"
+        android:layout_width="323dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imagePulauDetail"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-30dp"
+        android:background="#000"
+        android:padding="10dp"
+        android:text="Demo"
+        android:textColor="#fff"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <GridView
+        android:id="@+id/GridProvinsi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textPulauDetail"
+        android:layout_marginTop="30dp"
+        android:numColumns="2"/>
+
+</RelativeLayout>

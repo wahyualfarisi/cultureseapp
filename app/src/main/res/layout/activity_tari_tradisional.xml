@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_hlm">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/nama_tari"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="judul"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:textColor="@color/black"
+            android:fontFamily="casual"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:id="@+id/tari_img"
+            android:layout_width="320dp"
+            android:layout_height="200dp"
+            android:contentDescription="test"
+            android:layout_gravity="center_horizontal"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tari_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:background="#3A8EAB"
+            android:textSize="20sp"
+            android:fontFamily="casual"
+            android:text="@string/saman"/>
+
+        <TextView
+            android:id="@+id/txtkliklagu"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+
+            android:text="klik video dibawah ini"
+
+            android:textStyle="bold"
+            android:background="#3A8EAB"
+            android:gravity="center"
+            android:fontFamily="casual" />
+
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/activity_main_youtubePlayerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:autoPlay="false"
+            app:showFullScreenButton="true" />
+
+
+        <Button
+            android:id="@+id/btn_homelagu"
+
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="70dp"
+            android:fontFamily="casual"
+            android:text="@string/tohome"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            app:backgroundTint="#706B6B"
+            tools:ignore="UsingOnClickInXml" />
+
+    </LinearLayout>
+</ScrollView>

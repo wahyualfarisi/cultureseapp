@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">aplikasisenibudaya</string>
+    <string name="app_name">Aplikasi Seni Budaya</string>
+    <string name="tari_tradisional">Tari Tradisional</string>
+    <string name="lagu">LAGU DAERAH</string>
+    <string name="tartrad">TARI TRADISIONAL</string>
+    <string name="pakaian">PAKAIAN ADAT</string>
+    <string name="rumah">RUMAH ADAT</string>
+    <string name="senjata">SENJATA KHAS</string>
+    <string name="saman">
+        Tari Saman adalah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo.
+Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW. Tari saman biasanya ditampilkan tidak menggunakan iringan alat musik, akan tetapi
+menggunakan suara dari para penari dan tepuk tangan mereka yang biasanya diikuti dengan memukul dada dan pangkal paha mereka sebagai sinkronisasi dan menghempaskan badan
+ke berbagai arah. Tarian ini dipandu oleh seorang pemimpin yang lazimnya disebut syekh. Tarian ini mencerminkan pendidikan, keagamaan, sopan santun, kepahlawanan, kekompakkan dan kebersamaan.
+    </string>
+    <string name="tohome">
+        Kembali ke home
+    </string>
 </resources>

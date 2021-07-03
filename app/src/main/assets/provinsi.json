@@ -4,61 +4,337 @@
       "kode_provinsi": "prov-1",
       "nama_provinsi": "ACEH",
       "kode_pulau": "1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Coat_of_arms_of_Aceh.svg/1200px-Coat_of_arms_of_Aceh.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Coat_of_arms_of_Aceh.svg/1200px-Coat_of_arms_of_Aceh.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Saman",
+        "description": "Tari Saman merupakan salah satu tari tradisional asal Indonesia yang bahkan sudah cukup dikenal di seluruh mancanegara. Tarian satu ini merupakan sebuah tarian suku dataran tinggi Gayo abad ke-XIV Masehi yang biasa ditampilkan ketika perayaan peristiwa-peristiwa penting di dalam adat. Maka dari itu, syair yang terdapat di dalam salah satu tarian dari 34 tari tradisional asal Indonesia ini menggunakan Bahasa Gayo. Di dalam beberapa literatur menyebutkan bahwa Tari Saman dikembangkan oleh Syekh Saman yang merupakan seorang ulama asal Gayo di Aceh Tenggara.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "vzit4ewJdb8"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
+
     },
     {
       "kode_provinsi": "prov-2",
       "nama_provinsi": "SUMATERA UTARA",
       "kode_pulau": "1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Coat_of_arms_of_North_Sumatra.svg/1200px-Coat_of_arms_of_North_Sumatra.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Coat_of_arms_of_North_Sumatra.svg/1200px-Coat_of_arms_of_North_Sumatra.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Tor-Tor",
+        "description": "Tari Tor Tor adalah tarian seremonial yang disajikan dengan musik gondang. Secara fisik, Tor Tor merupakan tarian, namun makna dari gerakan-gerakannya menunjukkan Tor Tor adalah sebuah media\nkomunikasi,dimana melalui gerakan yang disajikan terjadi interaksi antara orang yang mengikuti upacara. Dalam pelaksanaan tarian ini, salah seorang dari hasuhutan (yang mempunyai hajat) akan meminta\npermintaan kepada penabuh gondang dengan kata-kata yang sopan dan santun. Setiap selesai satu permintaan selalu diselingi dengan pukulan gondang dengan ritme tertentu dalam beberapa saat. Setelah\npermintaandilaksanakan dengan baik maka barisan keluarga suhut yang telah siap menari mengatur susunan tempat berdirinya untuk memulai menari.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "MdM9MH6JcfI"
+      },
+      "lagu_daerah": {
+        "name": "Sinanggar Tulo",
+        "description": "Sinanggar Tullo adalah salah satu lagu daerah yang berasal dari Sumatera Utara. Lagu Sinanggar Tullo ini sangat terkenal terutama di Sumatera Utara karena sering dipakai sebagai iringan musik untuk menari.\nPada lirik lagu ini menjelaskan seorang laki-laki yang bingung mencari ranting-ranting untuk dijadikan kayu bakar. Lirik lagu ini menggambarkan tentang keluh kesah seorang laki-laki yang harus menuruti permintaan\nibunya yang menginginkan anaknya untuk mencari pasangan yang memiliki marga sama dengan sang ibu.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "YWnFIDHMraA"
+      },
+      "rumah_adat": {
+        "name": "Rumah Bolon",
+        "description": "Rumah Bolon adalah rumah adat khas Sumatera Utara. Dulu, rumah adat Sumatera Utara menjadi tempat tinggal 13 raja yang berdomisili di Sumatra Utara. Rumah Bolon ini berbentuk persegi empat dengan model\npanggung, dengan tangga di tengah badan rumah untuk memudahkan penghuni masuk ke dalam rumah. Ada satu ruangan di dalamnya, ruang jabu soding yang khusus untuk anak perempuan.\n",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-3",
       "nama_provinsi": "SUMATERA BARAT",
       "kode_pulau": "1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Coat_of_arms_of_West_Sumatra.svg/1200px-Coat_of_arms_of_West_Sumatra.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Coat_of_arms_of_West_Sumatra.svg/1200px-Coat_of_arms_of_West_Sumatra.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-4",
       "nama_provinsi": "RIAU",
       "kode_pulau": "1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Coat_of_arms_of_Riau.svg/1200px-Coat_of_arms_of_Riau.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Coat_of_arms_of_Riau.svg/1200px-Coat_of_arms_of_Riau.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Saman",
+        "description": "Tari Saman merupakan salah satu tari tradisional asal Indonesia yang bahkan sudah cukup dikenal di seluruh mancanegara. Tarian satu ini merupakan sebuah tarian suku dataran tinggi Gayo abad ke-XIV Masehi yang biasa ditampilkan ketika perayaan peristiwa-peristiwa penting di dalam adat. Maka dari itu, syair yang terdapat di dalam salah satu tarian dari 34 tari tradisional asal Indonesia ini menggunakan Bahasa Gayo. Di dalam beberapa literatur menyebutkan bahwa Tari Saman dikembangkan oleh Syekh Saman yang merupakan seorang ulama asal Gayo di Aceh Tenggara.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "OaEAEa2DhDY"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
+
     },
     {
       "kode_provinsi": "prov-5",
       "nama_provinsi": "KEPULAUAN RIAU",
       "kode_pulau": "1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Coat_of_arms_of_Riau_Islands.svg/1200px-Coat_of_arms_of_Riau_Islands.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Coat_of_arms_of_Riau_Islands.svg/1200px-Coat_of_arms_of_Riau_Islands.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Saman",
+        "description": "Tari Saman merupakan salah satu tari tradisional asal Indonesia yang bahkan sudah cukup dikenal di seluruh mancanegara. Tarian satu ini merupakan sebuah tarian suku dataran tinggi Gayo abad ke-XIV Masehi yang biasa ditampilkan ketika perayaan peristiwa-peristiwa penting di dalam adat. Maka dari itu, syair yang terdapat di dalam salah satu tarian dari 34 tari tradisional asal Indonesia ini menggunakan Bahasa Gayo. Di dalam beberapa literatur menyebutkan bahwa Tari Saman dikembangkan oleh Syekh Saman yang merupakan seorang ulama asal Gayo di Aceh Tenggara.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "vzit4ewJdb8"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.","image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
+
     },
     {
       "kode_provinsi": "prov-6",
       "nama_provinsi": "JAMBI",
       "kode_pulau": "1",
-      "image": "http://jambiprov.go.id/jambiprov-zxcvbnm/editor/gambar/Image/Logo%20Provinsi%20Jambi%20-%20[agus91]%20(1).png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Lambang_Kota_Jambi.png",
+      "tari_tradisional": {
+        "name": "Tari Saman",
+        "description": "Tari Saman merupakan salah satu tari tradisional asal Indonesia yang bahkan sudah cukup dikenal di seluruh mancanegara. Tarian satu ini merupakan sebuah tarian suku dataran tinggi Gayo abad ke-XIV Masehi yang biasa ditampilkan ketika perayaan peristiwa-peristiwa penting di dalam adat. Maka dari itu, syair yang terdapat di dalam salah satu tarian dari 34 tari tradisional asal Indonesia ini menggunakan Bahasa Gayo. Di dalam beberapa literatur menyebutkan bahwa Tari Saman dikembangkan oleh Syekh Saman yang merupakan seorang ulama asal Gayo di Aceh Tenggara.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "vzit4ewJdb8"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
+
     },
     {
       "kode_provinsi": "prov-7",
       "nama_provinsi": "BENGKULU",
       "kode_pulau": "1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Coat_of_arms_of_Bengkulu.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Coat_of_arms_of_Bengkulu.png",
+      "tari_tradisional": {
+        "name": "Tari Saman",
+        "description": "Tari Saman merupakan salah satu tari tradisional asal Indonesia yang bahkan sudah cukup dikenal di seluruh mancanegara. Tarian satu ini merupakan sebuah tarian suku dataran tinggi Gayo abad ke-XIV Masehi yang biasa ditampilkan ketika perayaan peristiwa-peristiwa penting di dalam adat. Maka dari itu, syair yang terdapat di dalam salah satu tarian dari 34 tari tradisional asal Indonesia ini menggunakan Bahasa Gayo. Di dalam beberapa literatur menyebutkan bahwa Tari Saman dikembangkan oleh Syekh Saman yang merupakan seorang ulama asal Gayo di Aceh Tenggara.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "vzit4ewJdb8"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
+
     },
     {
       "kode_provinsi": "prov-8",
       "nama_provinsi": "KEPULAUAN BANGKA BELITUNG",
       "kode_pulau": "1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coat_of_arms_of_Bangka_Belitung_Islands.svg/1200px-Coat_of_arms_of_Bangka_Belitung_Islands.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coat_of_arms_of_Bangka_Belitung_Islands.svg/1200px-Coat_of_arms_of_Bangka_Belitung_Islands.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Saman",
+        "description": "Tari Saman merupakan salah satu tari tradisional asal Indonesia yang bahkan sudah cukup dikenal di seluruh mancanegara. Tarian satu ini merupakan sebuah tarian suku dataran tinggi Gayo abad ke-XIV Masehi yang biasa ditampilkan ketika perayaan peristiwa-peristiwa penting di dalam adat. Maka dari itu, syair yang terdapat di dalam salah satu tarian dari 34 tari tradisional asal Indonesia ini menggunakan Bahasa Gayo. Di dalam beberapa literatur menyebutkan bahwa Tari Saman dikembangkan oleh Syekh Saman yang merupakan seorang ulama asal Gayo di Aceh Tenggara.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "vzit4ewJdb8"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
+
     },
     {
       "kode_provinsi": "prov-9",
       "nama_provinsi": "SUMATERA SELATAN",
       "kode_pulau": "1",
-      "image": "https://www.sumselprov.go.id/userfiles/images/logosumsel.png"
+      "image": "https://www.sumselprov.go.id/userfiles/images/logosumsel.png",
+      "tari_tradisional": {
+        "name": "Tari Saman",
+        "description": "Tari Saman merupakan salah satu tari tradisional asal Indonesia yang bahkan sudah cukup dikenal di seluruh mancanegara. Tarian satu ini merupakan sebuah tarian suku dataran tinggi Gayo abad ke-XIV Masehi yang biasa ditampilkan ketika perayaan peristiwa-peristiwa penting di dalam adat. Maka dari itu, syair yang terdapat di dalam salah satu tarian dari 34 tari tradisional asal Indonesia ini menggunakan Bahasa Gayo. Di dalam beberapa literatur menyebutkan bahwa Tari Saman dikembangkan oleh Syekh Saman yang merupakan seorang ulama asal Gayo di Aceh Tenggara.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "vzit4ewJdb8"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-10",
       "nama_provinsi": "LAMPUNG",
       "kode_pulau": "1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lampung_coa.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lampung_coa.png",
+      "tari_tradisional": {
+        "name": "Tari Saman",
+        "description": "Tari Saman merupakan salah satu tari tradisional asal Indonesia yang bahkan sudah cukup dikenal di seluruh mancanegara. Tarian satu ini merupakan sebuah tarian suku dataran tinggi Gayo abad ke-XIV Masehi yang biasa ditampilkan ketika perayaan peristiwa-peristiwa penting di dalam adat. Maka dari itu, syair yang terdapat di dalam salah satu tarian dari 34 tari tradisional asal Indonesia ini menggunakan Bahasa Gayo. Di dalam beberapa literatur menyebutkan bahwa Tari Saman dikembangkan oleh Syekh Saman yang merupakan seorang ulama asal Gayo di Aceh Tenggara.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "vzit4ewJdb8"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
 
 
@@ -67,37 +343,199 @@
       "kode_provinsi": "prov-11",
       "nama_provinsi": "BANTEN",
       "kode_pulau": "2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Coat_of_arms_of_Banten.png/1200px-Coat_of_arms_of_Banten.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Coat_of_arms_of_Banten.png/1200px-Coat_of_arms_of_Banten.png",
+      "tari_tradisional": {
+        "name": "Tari Ngabalukbuk",
+        "description": "Tari Ngabalukbuk adalah tarian yang berasal dari Banten. Tarian ini menceritakan konflik dalam kehidupan manusia, karena keserakahan dan ketidakadilan. Konflik ini timbul karena sebuah\nhal yaitu air. Tarian ini menceritakan hiruk pikuk kehidupan masyarakat dalam tradisi mengalirkan air dari sumber mata air yang berada di gunung sampai ke kampung atau persawahan\ndengan mengunakan ruas bambu yang disambung memanjang. Selain konflik, dalam tari ini terdapat kebersamaan, gotong royong dan kepedulian terhadap lingkungan dan alam yang\nsenantiasa patut dilestarikan agar tetap terjaga.",
+        "image": "https://paradetarinusantara.com/wp-content/uploads/2019/06/Parade-Tari-Nusantara-2018-Ngabalukbuk-Banten-Main-image-001.jpg",
+        "video": "gD-5gCKYYLc"
+      },
+      "lagu_daerah": {
+        "name": "Jereh Bu Guru",
+        "description": "Jereh Bu Guru adalah satu lagu daerah yang berasal dari Banten. Lagu Jereh Bu Guru ini sangat terkenal terutama di Banten karena lagu ini adalah lagu yang menceritakan tentang sebuah\nkerhormatan. Jereh Bu Guru memiliki arti yaitu \"kata bu guru\" dan dalam lirik lagu ini terdapat nasihat atau pesan bahwa anak-anak harus selalu menghormati, berbakti, dan mendengarkan perkataan orang\nyang lebih tua. Selain itu, pesan yang ingin disampaikan oleh lagu ini adalah agar murid-murid belajar dengan rajin dan tekun, agar di masa depan dapat menjadi manusia yang berilmu dan berguna\nbagi sekitarnya.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "Gfx1aasCVI8"
+      },
+      "rumah_adat": {
+        "name": "Rumah Baduy",
+        "description": "Rumah Badui adalah rumah adat khas Banten. Rumah ini adalah rumah yang penghuninya adalah Suku Badui. Rumah ini berbentuk Julang Ngapak atau seperti rumah panggung dengan bahan bambu.\nRumah ini adalah simbol kesederhanaan masyarakat setempat dan digunakan untuk tempat berlindung dan mendapat kenyamanan. Selain itu, Rumah Badui ini dikenal dengan kekeluargaannya karena\ndibuat dengan gotong royong.",
+        "image": "https://awsimages.detik.net.id/community/media/visual/2017/10/17/ce20db5a-c412-4d9b-922a-4627c870abb7_169.jpg?w=700&q=90"
+      },
+      "senjata_khas": {
+        "name": "Bedog Banten",
+        "description": "Bedog Banten adalah salah satu senjata tradisional dari Provinsi Banten. Begog menjadi alat perkakas yang digunakan untuk pekerjaan pertanian di ladang atau sawah. Senjata ini digunakan untuk\nmenebang pohon dan bambu, membelah kelapa, untuk keperlauan dapur, dan sebagainya. Pada zaman dulu, senjata Bedog ini dipakai para jawara dari Banten untuk perlindungan diri.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Pangsi",
+        "description": "Pangsi adalah pakaian adat dari Provinsi Banten. Pakaian Pangsi umumnya dipakai oleh laki-laki untuk orang Sunda. Pakaian ini digunakan sebagai busana latihan silat tradisional yang ada di Banten karena\nsilat menjadi salah satu budaya yang cukup populer dan sering digelar di Banten. Warna baju Pangsi identik dengan hitam, namun tidak menutup kemungkinan dengan warna-warna lain menyesuaikan acara\natau kegunaan Pangsi itu sendiri. Atasan pakaian adat ini dikenal dengan sebuatan Salontreng. Atasan baju Pangsi memiliki kancing dengan jumlah enam buah yang melambangkan rukun iman atau lima\nkancing yang melambangkan rukun Islam. Pakaian ini dilengkapi dengan sendal selop dan ikat kepala khas Banten yang disebut totopong.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-12",
       "nama_provinsi": "DKI JAKARTA",
       "kode_pulau": "2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Jakarta.svg/1200px-Coat_of_arms_of_Jakarta.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Jakarta.svg/1200px-Coat_of_arms_of_Jakarta.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-13",
       "nama_provinsi": "JAWA BARAT",
       "kode_pulau": "2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Coat_of_arms_of_West_Java.svg/220px-Coat_of_arms_of_West_Java.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Coat_of_arms_of_West_Java.svg/220px-Coat_of_arms_of_West_Java.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-14",
       "nama_provinsi": "JAWA TENGAH",
       "kode_pulau": "2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_Central_Java.svg/1200px-Coat_of_arms_of_Central_Java.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_Central_Java.svg/1200px-Coat_of_arms_of_Central_Java.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-15",
       "nama_provinsi": "JAWA TIMUR",
       "kode_pulau": "2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Coat_of_arms_of_East_Java.svg/220px-Coat_of_arms_of_East_Java.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Coat_of_arms_of_East_Java.svg/220px-Coat_of_arms_of_East_Java.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-16",
       "nama_provinsi": "YOGYAKARTA",
       "kode_pulau": "2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Yogyakarta.svg/1200px-Coat_of_arms_of_Yogyakarta.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Yogyakarta.svg/1200px-Coat_of_arms_of_Yogyakarta.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
 
 
@@ -106,19 +544,100 @@
       "kode_provinsi": "prov-17",
       "nama_provinsi": "BALI",
       "kode_pulau": "3",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Coat_of_arms_of_Bali.svg/1200px-Coat_of_arms_of_Bali.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Coat_of_arms_of_Bali.svg/1200px-Coat_of_arms_of_Bali.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-18",
       "nama_provinsi": "NUSA TENGGARA BARAT",
       "kode_pulau": "3",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Coat_of_arms_of_West_Nusa_Tenggara.svg/1200px-Coat_of_arms_of_West_Nusa_Tenggara.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Coat_of_arms_of_West_Nusa_Tenggara.svg/1200px-Coat_of_arms_of_West_Nusa_Tenggara.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-19",
       "nama_provinsi": "NUSA TENGGARA TIMUR",
       "kode_pulau": "3",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Coat_of_arms_of_East_Nusa_Tenggara.svg/180px-Coat_of_arms_of_East_Nusa_Tenggara.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Coat_of_arms_of_East_Nusa_Tenggara.svg/180px-Coat_of_arms_of_East_Nusa_Tenggara.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
 
 
@@ -127,25 +646,133 @@
       "kode_provinsi": "prov-20",
       "nama_provinsi": "MALUKU",
       "kode_pulau": "4",
-      "image": "http://1.bp.blogspot.com/-cstQxvFo5BY/UNl0gXeJEiI/AAAAAAAAIro/bhN5gkrD0iA/s1600/LOGO+PROVINSI+MALUKU.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjjgV4idoVYXMf8jv0J8jfFChwMB3B3w3-vDWsH35mCFfTFg0jJgdEOdFKXyWexYdRnxQ&usqp=CAU",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-21",
       "nama_provinsi": "MALUKU UTARA",
       "kode_pulau": "4",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Coat_of_arms_of_North_Maluku.svg/1200px-Coat_of_arms_of_North_Maluku.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Coat_of_arms_of_North_Maluku.svg/1200px-Coat_of_arms_of_North_Maluku.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-22",
       "nama_provinsi": "PAPUA",
       "kode_pulau": "4",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Coat_of_arms_of_Papua.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Coat_of_arms_of_Papua.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-23",
       "nama_provinsi": "PAPUA BARAT",
       "kode_pulau": "4",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_West_Papua.svg/1200px-Coat_of_arms_of_West_Papua.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_West_Papua.svg/1200px-Coat_of_arms_of_West_Papua.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
 
 
@@ -155,31 +782,166 @@
       "kode_provinsi": "prov-24",
       "nama_provinsi": "KALIMANTAN UTARA",
       "kode_pulau": "5",
-      "image": "https://rekreartive.com/wp-content/uploads/2018/12/Logo-Kalimantan-Utara-Provinsi-Kalimantan-Utara.jpg"
+      "image": "https://rekreartive.com/wp-content/uploads/2018/12/Logo-Kalimantan-Utara-Provinsi-Kalimantan-Utara.jpg",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-25",
       "nama_provinsi": "KALIMANTAN BARAT",
       "kode_pulau": "5",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coat_of_arms_of_West_Kalimantan.svg/1200px-Coat_of_arms_of_West_Kalimantan.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coat_of_arms_of_West_Kalimantan.svg/1200px-Coat_of_arms_of_West_Kalimantan.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-26",
       "nama_provinsi": "KALIMANTAN TENGAH",
       "kode_pulau": "5",
-      "image": "https://rekreartive.com/wp-content/uploads/2018/12/Logo-Kalteng-Provinsi-Kalimantan-Tengah-Original.jpg"
+      "image": "https://rekreartive.com/wp-content/uploads/2018/12/Logo-Kalteng-Provinsi-Kalimantan-Tengah-Original.jpg",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-27",
       "nama_provinsi": "KALIMANTAN SELATAN",
       "kode_pulau": "5",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_South_Kalimantan.svg/1200px-Coat_of_arms_of_South_Kalimantan.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_South_Kalimantan.svg/1200px-Coat_of_arms_of_South_Kalimantan.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-28",
       "nama_provinsi": "KALIMANTAN TIMUR",
       "kode_pulau": "5",
-      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+      "image": "https://rekreartive.com/wp-content/uploads/2018/12/Logo-Kaltim-Provinsi-Kalimantan-Timur-Original.jpg",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
 
 
@@ -187,37 +949,199 @@
       "kode_provinsi": "prov-29",
       "nama_provinsi": "GORONTALO",
       "kode_pulau": "6",
-      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Lambang_propinsi_gorontalo.jpg",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-30",
       "nama_provinsi": "SULAWESI UTARA",
       "kode_pulau": "6",
-      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Coat_of_arms_of_North_Sulawesi.svg/1200px-Coat_of_arms_of_North_Sulawesi.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-31",
       "nama_provinsi": "SULAWESI BARAT",
       "kode_pulau": "6",
-      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+      "image": "https://berita.sulbarprov.go.id/images/Radio/logo-besar.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-32",
       "nama_provinsi": "SULAWESI TENGAH",
       "kode_pulau": "6",
-      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+      "image": "https://1.bp.blogspot.com/-Mb3OPbim3Gw/VrYYo_59GjI/AAAAAAAAVFw/oh24hNmZ1NU/s1600/LOGO%2BSULAWESI%2BTENGAH.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-33",
       "nama_provinsi": "SULAWESI TENGGARA",
       "kode_pulau": "6",
-      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Coat_of_arms_of_Southeast_Sulawesi.svg/1200px-Coat_of_arms_of_Southeast_Sulawesi.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     },
     {
       "kode_provinsi": "prov-34",
       "nama_provinsi": "SULAWESI SELATAN",
       "kode_pulau": "6",
-      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Coat_of_arms_of_South_Sulawesi.svg/1200px-Coat_of_arms_of_South_Sulawesi.svg.png",
+      "tari_tradisional": {
+        "name": "Tari Piring",
+        "description": "Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring\nyang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut\ndan teratur, kemudian lama-kelamaan berubah menjadi lebih cepat.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg",
+        "video": "r6hQomWsHAE"
+      },
+      "lagu_daerah": {
+        "name": "Bungong Jempa",
+        "description": "Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini sangat terkenal terutama di Aceh karena lagu ini\nmemiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur merah yang indah dan harum, yang terkenal di Aceh. Lagu ini\nmenggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu Bungong Jeumpa.",
+        "image": "https://static.republika.co.id/uploads/images/inpicture_slide/peserta-pawai-berpakaian-adat-dari-sejumlah-daerah-mengikuti-kirab-_171129205642-650.jpg",
+        "video": "rKhWGy3spRE"
+      },
+      "rumah_adat": {
+        "name": "Rumah Krong Bade ",
+        "description": "Rumah Krong Bade atau Rumoh Aceh adalah rumah adat khas Aceh. Rumah ini memiliki tiga tangga di bagian depan rumah, untuk pintu masuk tamu dan orang yang tinggal. Selain itu, dinding rumah ini terdapat\nukiran khas yang disesuaikan dengan tingkat ekonomi penghuninya. Rumoh Aceh ini berbentuk persegi panjang yang mana memanjang dari timur ke barat dengan atap yang menggunakan daun rumba",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "senjata_khas": {
+        "name": "Rencong",
+        "description": "Rencong adalah salah satu senjata tradisional dari Provinsi Aceh. Rencong termasuk ke dalam daftar Warisan Budaya Tak Benda Indonesia menurut situs Kementrian Pendidikan dan Kebudayaan. Selain sebagai\nsenjata perang, senjata ini melambangkan keberanian dan kegagahan Aceh dan digunakan pula untuk pertujukan Tari Seudati. Rencong memiliki 4 jenis yaitu Rencong Meupucok, Rencong Meucugek, Rencong\nMeukuree, dan Rencong Pudoi. Keempat senjata tersebut walaupun sama-sama bernama \"Rencong\" namun bentuk keempatnya berbeda-beda",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      },
+      "pakaian_adat": {
+        "name": "Ulee Balang",
+        "description": "Ulee Balang adalah pakaian adat dari Provinsi Aceh. Awalnya Ulee Balang hanya dipakai oleh keluarga raja, sekarang pakaian adat tersebut menjadi pakaian adat Aceh dan dipakai untuk upacara adat. Pakaian adat\nUlee Balang bagi laki-laki dikenal dengan sebuatan Linto Baro. Sedangkan pakaian adat untuk perempuan disebut Daro Baro. Pada Linto Baro terdapat Meukeutop yaitui penutup kepala, Meukasah yaitu baju berwarna\nhitam yang terbuat dari benang sutera, dan Sileuweu yaitu celana cekak musang yang juga berwarna hitam. Pada Daro Baro terdapat baju berwarna kuning yang terbuat dari benang sutera, Sileuweu yaitu celana\ncekak musang, dan berbagai perhiasan seperti Patam Dhoe yang merupakan perhiasan berbentuk mahkota, Subang atau anting-anting, dan Taloe Tokoe Bieung Meuih yang merupakan perhiasan berupa kalung.\nWarna pakaian Daro Baro lebih beragam dibandingkan dengan warna pakaian Linto Baro.",
+        "image": "https://womensobsession.com/uploads/post_article/20190819150605-a712c.jpg"
+      }
     }
 
 

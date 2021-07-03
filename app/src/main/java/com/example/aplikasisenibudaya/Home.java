@@ -2,7 +2,10 @@ package com.example.aplikasisenibudaya;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.GridView;
 
 import org.json.JSONArray;
@@ -25,11 +28,8 @@ public class Home extends AppCompatActivity {
 
         GridpulauLists = (GridView) findViewById(R.id.gridPulauList);
         try {
-            // get JSONObject from JSON file
             JSONObject obj = new JSONObject(loadJsonFromAsset());
-            // fetch JSONArray named birds
             JSONArray birdArray = obj.getJSONArray("pulau");
-            // implement for loop for getting birds list data
             for (int i = 0; i < birdArray.length(); i++) {
                 JSONObject pulau = birdArray.getJSONObject(i);
                 pulauList.add(
@@ -47,8 +47,18 @@ public class Home extends AppCompatActivity {
         AdapterPulau adapterPulau = new AdapterPulau(this, R.layout.grid_item_pulau, pulauList);
         GridpulauLists.setAdapter(adapterPulau);
 
+        GridpulauLists.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
+                Intent intent = new Intent(Home.this, Provinsi.class);
+                intent.putExtra("kode_pulau", pulauList.get(position).getKode_pulau());
+                intent.putExtra("nama_pulau", pulauList.get(position).getNama_pulau());
+                intent.putExtra("image", pulauList.get(position).getImage());
 
+                startActivity(intent);
+            }
+        });
     }
 
     public String loadJsonFromAsset() {

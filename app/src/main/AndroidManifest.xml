@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.aplikasisenibudaya">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -11,7 +11,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Aplikasisenibudaya">
-        <activity android:name=".Home"></activity>
+        <activity android:name=".SenjataKhas"></activity>
+        <activity android:name=".RumahAdat" />
+        <activity android:name=".PakaianAdat" />
+        <activity android:name=".LaguDaerah" />
+        <activity android:name=".TariTradisional" />
+        <activity android:name=".DetailProvinsi" />
+        <activity android:name=".Provinsi" />
+        <activity android:name=".Home" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
