@@ -1,0 +1,28 @@
+{
+  "pulau": [
+    {
+      "kode_pulau": "1",
+      "nama_pulau": "PULAU SUMATERA"
+    },
+    {
+      "kode_pulau": "2",
+      "nama_pulau": "PULAU JAWA"
+    },
+    {
+      "kode_pulau": "3",
+      "nama_pulau": "PULAU NUSA TENGGARA DAN BALI"
+    },
+    {
+      "kode_pulau": "4",
+      "nama_pulau": "PULAU MALUKU DAN PAPUA"
+    },
+    {
+      "kode_pulau": "5",
+      "nama_pulau": "PULAU KALIMANTAN"
+    },
+    {
+      "kode_pulau": "6",
+      "nama_pulau": "PULAU SULAWESI"
+    }
+  ]
+}

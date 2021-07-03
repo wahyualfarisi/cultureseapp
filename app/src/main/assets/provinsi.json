@@ -1,0 +1,226 @@
+{
+  "provinsi": [
+    {
+      "kode_provinsi": "prov-1",
+      "nama_provinsi": "ACEH",
+      "kode_pulau": "1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Coat_of_arms_of_Aceh.svg/1200px-Coat_of_arms_of_Aceh.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-2",
+      "nama_provinsi": "SUMATERA UTARA",
+      "kode_pulau": "1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Coat_of_arms_of_North_Sumatra.svg/1200px-Coat_of_arms_of_North_Sumatra.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-3",
+      "nama_provinsi": "SUMATERA BARAT",
+      "kode_pulau": "1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Coat_of_arms_of_West_Sumatra.svg/1200px-Coat_of_arms_of_West_Sumatra.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-4",
+      "nama_provinsi": "RIAU",
+      "kode_pulau": "1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Coat_of_arms_of_Riau.svg/1200px-Coat_of_arms_of_Riau.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-5",
+      "nama_provinsi": "KEPULAUAN RIAU",
+      "kode_pulau": "1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Coat_of_arms_of_Riau_Islands.svg/1200px-Coat_of_arms_of_Riau_Islands.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-6",
+      "nama_provinsi": "JAMBI",
+      "kode_pulau": "1",
+      "image": "http://jambiprov.go.id/jambiprov-zxcvbnm/editor/gambar/Image/Logo%20Provinsi%20Jambi%20-%20[agus91]%20(1).png"
+    },
+    {
+      "kode_provinsi": "prov-7",
+      "nama_provinsi": "BENGKULU",
+      "kode_pulau": "1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Coat_of_arms_of_Bengkulu.png"
+    },
+    {
+      "kode_provinsi": "prov-8",
+      "nama_provinsi": "KEPULAUAN BANGKA BELITUNG",
+      "kode_pulau": "1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coat_of_arms_of_Bangka_Belitung_Islands.svg/1200px-Coat_of_arms_of_Bangka_Belitung_Islands.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-9",
+      "nama_provinsi": "SUMATERA SELATAN",
+      "kode_pulau": "1",
+      "image": "https://www.sumselprov.go.id/userfiles/images/logosumsel.png"
+    },
+    {
+      "kode_provinsi": "prov-10",
+      "nama_provinsi": "LAMPUNG",
+      "kode_pulau": "1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lampung_coa.png"
+    },
+
+
+
+    {
+      "kode_provinsi": "prov-11",
+      "nama_provinsi": "BANTEN",
+      "kode_pulau": "2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Coat_of_arms_of_Banten.png/1200px-Coat_of_arms_of_Banten.png"
+    },
+    {
+      "kode_provinsi": "prov-12",
+      "nama_provinsi": "DKI JAKARTA",
+      "kode_pulau": "2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Jakarta.svg/1200px-Coat_of_arms_of_Jakarta.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-13",
+      "nama_provinsi": "JAWA BARAT",
+      "kode_pulau": "2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Coat_of_arms_of_West_Java.svg/220px-Coat_of_arms_of_West_Java.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-14",
+      "nama_provinsi": "JAWA TENGAH",
+      "kode_pulau": "2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_Central_Java.svg/1200px-Coat_of_arms_of_Central_Java.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-15",
+      "nama_provinsi": "JAWA TIMUR",
+      "kode_pulau": "2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Coat_of_arms_of_East_Java.svg/220px-Coat_of_arms_of_East_Java.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-16",
+      "nama_provinsi": "YOGYAKARTA",
+      "kode_pulau": "2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Yogyakarta.svg/1200px-Coat_of_arms_of_Yogyakarta.svg.png"
+    },
+
+
+
+    {
+      "kode_provinsi": "prov-17",
+      "nama_provinsi": "BALI",
+      "kode_pulau": "3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Coat_of_arms_of_Bali.svg/1200px-Coat_of_arms_of_Bali.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-18",
+      "nama_provinsi": "NUSA TENGGARA BARAT",
+      "kode_pulau": "3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Coat_of_arms_of_West_Nusa_Tenggara.svg/1200px-Coat_of_arms_of_West_Nusa_Tenggara.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-19",
+      "nama_provinsi": "NUSA TENGGARA TIMUR",
+      "kode_pulau": "3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Coat_of_arms_of_East_Nusa_Tenggara.svg/180px-Coat_of_arms_of_East_Nusa_Tenggara.svg.png"
+    },
+
+
+
+    {
+      "kode_provinsi": "prov-20",
+      "nama_provinsi": "MALUKU",
+      "kode_pulau": "4",
+      "image": "http://1.bp.blogspot.com/-cstQxvFo5BY/UNl0gXeJEiI/AAAAAAAAIro/bhN5gkrD0iA/s1600/LOGO+PROVINSI+MALUKU.png"
+    },
+    {
+      "kode_provinsi": "prov-21",
+      "nama_provinsi": "MALUKU UTARA",
+      "kode_pulau": "4",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Coat_of_arms_of_North_Maluku.svg/1200px-Coat_of_arms_of_North_Maluku.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-22",
+      "nama_provinsi": "PAPUA",
+      "kode_pulau": "4",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Coat_of_arms_of_Papua.png"
+    },
+    {
+      "kode_provinsi": "prov-23",
+      "nama_provinsi": "PAPUA BARAT",
+      "kode_pulau": "4",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_West_Papua.svg/1200px-Coat_of_arms_of_West_Papua.svg.png"
+    },
+
+
+
+
+    {
+      "kode_provinsi": "prov-24",
+      "nama_provinsi": "KALIMANTAN UTARA",
+      "kode_pulau": "5",
+      "image": "https://rekreartive.com/wp-content/uploads/2018/12/Logo-Kalimantan-Utara-Provinsi-Kalimantan-Utara.jpg"
+    },
+    {
+      "kode_provinsi": "prov-25",
+      "nama_provinsi": "KALIMANTAN BARAT",
+      "kode_pulau": "5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coat_of_arms_of_West_Kalimantan.svg/1200px-Coat_of_arms_of_West_Kalimantan.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-26",
+      "nama_provinsi": "KALIMANTAN TENGAH",
+      "kode_pulau": "5",
+      "image": "https://rekreartive.com/wp-content/uploads/2018/12/Logo-Kalteng-Provinsi-Kalimantan-Tengah-Original.jpg"
+    },
+    {
+      "kode_provinsi": "prov-27",
+      "nama_provinsi": "KALIMANTAN SELATAN",
+      "kode_pulau": "5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_South_Kalimantan.svg/1200px-Coat_of_arms_of_South_Kalimantan.svg.png"
+    },
+    {
+      "kode_provinsi": "prov-28",
+      "nama_provinsi": "KALIMANTAN TIMUR",
+      "kode_pulau": "5",
+      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+    },
+
+
+    {
+      "kode_provinsi": "prov-29",
+      "nama_provinsi": "GORONTALO",
+      "kode_pulau": "6",
+      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+    },
+    {
+      "kode_provinsi": "prov-30",
+      "nama_provinsi": "SULAWESI UTARA",
+      "kode_pulau": "6",
+      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+    },
+    {
+      "kode_provinsi": "prov-31",
+      "nama_provinsi": "SULAWESI BARAT",
+      "kode_pulau": "6",
+      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+    },
+    {
+      "kode_provinsi": "prov-32",
+      "nama_provinsi": "SULAWESI TENGAH",
+      "kode_pulau": "6",
+      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+    },
+    {
+      "kode_provinsi": "prov-33",
+      "nama_provinsi": "SULAWESI TENGGARA",
+      "kode_pulau": "6",
+      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+    },
+    {
+      "kode_provinsi": "prov-34",
+      "nama_provinsi": "SULAWESI SELATAN",
+      "kode_pulau": "6",
+      "image": "http://2.bp.blogspot.com/-XFQd83G5McA/Uxu9V3SG9PI/AAAAAAAAMlU/Wn2xM9Q30uY/s1600/Logo+Provinsi+Kalimantan+Timur.png"
+    }
+
+
+
+  ]
+}
