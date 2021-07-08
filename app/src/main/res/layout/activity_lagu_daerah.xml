@@ -78,6 +78,7 @@
             android:layout_marginTop="70dp"
             android:fontFamily="casual"
             android:text="@string/tohome"
+            android:onClick="home"
             android:textSize="14sp"
             android:textStyle="bold"
             app:backgroundTint="#706B6B"

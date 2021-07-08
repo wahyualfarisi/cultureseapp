@@ -47,7 +47,6 @@
 
         <Button
             android:id="@+id/btn_homelagu"
-
             android:layout_width="200dp"
             android:layout_height="70dp"
             android:layout_gravity="center"
@@ -56,6 +55,7 @@
             android:text="@string/tohome"
             android:textSize="14sp"
             android:textStyle="bold"
+            android:onClick="home"
             app:backgroundTint="#706B6B"
             tools:ignore="UsingOnClickInXml" />
 
