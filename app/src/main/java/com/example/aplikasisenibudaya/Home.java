@@ -1,6 +1,9 @@
 package com.example.aplikasisenibudaya;
 
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.content.DialogInterface;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -26,6 +29,7 @@ public class Home extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
 
+        setTitle("");
         GridpulauLists = (GridView) findViewById(R.id.gridPulauList);
         try {
             JSONObject obj = new JSONObject(loadJsonFromAsset());
@@ -76,5 +80,26 @@ public class Home extends AppCompatActivity {
             return null;
         }
         return json;
+    }
+
+    public void close(View view) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setCancelable(false);
+        builder.setMessage("Apakah Anda Yakin Ingin Keluar?");
+        builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                finishAffinity();
+            }
+        });
+
+        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.cancel();
+            }
+        });
+        AlertDialog alert = builder.create();
+        alert.show();
     }
 }
